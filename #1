@@ -1,3 +1,18 @@
 # Вывод изображения ниже (комментарий)
 print ("Федя родился: 5, 5")
 print ("Second line")
+
+
+Вика = 50
+Кирилл = 100
+print ("Вика+Кирилл")
+print ("result:", Вика + Кирилл)
+
+num1 = int(input("введите первое число - "))
+
+num2 = int(input("введите 2 число - "))
+
+print("Result:", num1 + num2)
+print("Result:", num1 - num2)
+print("Result:", num1 * num2)
+print("Result:", num1 / num2)
